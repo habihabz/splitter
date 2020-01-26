@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349792967311",
+    "firebase_url": "https://expensesplitter-46d9c.firebaseio.com",
+    "project_id": "expensesplitter-46d9c",
+    "storage_bucket": "expensesplitter-46d9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349792967311:android:a7244c97e6cc33b5106efa",
+        "android_client_info": {
+          "package_name": "com.example.roomsplitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349792967311-k2di22d2kolso8fs435v6bo7tn8k8nb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roomsplitter",
+            "certificate_hash": "ac89c6e04c4bfa90890ea5027a784c3596aeb9e2"
+          }
+        },
+        {
+          "client_id": "349792967311-anchgv3d352cujoptm5nnlfpkgqq7hi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtvQih6Bq3ssHEWdjtbLGVeDiVFofkU0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349792967311-anchgv3d352cujoptm5nnlfpkgqq7hi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
